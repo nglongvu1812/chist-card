@@ -312,6 +312,9 @@ input#open {
   transform: skew(-20deg,-10deg);
   left:15px;
 }
+.wishes{
+	color:#FFFFFF;
+}
 
 
 /* customizable snowflake styling */
